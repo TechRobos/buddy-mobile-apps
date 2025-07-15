@@ -31,7 +31,7 @@
             android:paddingStart="9dp"/>
 
         <Button
-            android:id="@+id/loginNow"
+            android:id="@+id/btnLogout"
             android:layout_width="115dp"
             android:layout_height="50dp"
             android:text="Logout"
